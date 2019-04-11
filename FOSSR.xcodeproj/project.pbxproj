@@ -268,7 +268,8 @@
 				TargetAttributes = {
 					4A09A2CE1D4A642D004D4EA9 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = V2N5QPY6NQ;
+						DevelopmentTeam = UR22Z5A2UL;
+						ProvisioningStyle = Automatic;
 					};
 					4A09A2E11D4A642D004D4EA9 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -472,13 +473,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = UR22Z5A2UL;
 				INFOPLIST_FILE = FOSSSR/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.theawesomecoder61.FOSSSR;
 				PRODUCT_NAME = FOSSR;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -486,13 +490,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = UR22Z5A2UL;
 				INFOPLIST_FILE = FOSSSR/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.theawesomecoder61.FOSSSR;
 				PRODUCT_NAME = FOSSR;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
