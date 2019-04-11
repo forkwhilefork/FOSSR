@@ -198,8 +198,8 @@
 				4A09A34D1D4AF7D2004D4EA9 /* DJProgressIndicator.m */,
 			);
 			name = DJProgressHUD;
-			path = "/Users/AndrewM/Downloads/DJProgressHUD_OSX-master/Playground/Playground/../../DJProgressHUD";
-			sourceTree = "<absolute>";
+			path = FOSSSR/DJProgressHUD;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -285,6 +285,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -564,6 +565,7 @@
 				4A09A2F81D4A642D004D4EA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A09A2F91D4A642D004D4EA9 /* Build configuration list for PBXNativeTarget "FOSSRTests" */ = {
 			isa = XCConfigurationList;
@@ -572,6 +574,7 @@
 				4A09A2FB1D4A642D004D4EA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A09A2FC1D4A642D004D4EA9 /* Build configuration list for PBXNativeTarget "FOSSRUITests" */ = {
 			isa = XCConfigurationList;
@@ -580,6 +583,7 @@
 				4A09A2FE1D4A642D004D4EA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
